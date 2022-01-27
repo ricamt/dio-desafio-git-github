@@ -1,0 +1,3 @@
+ao modificar um arquivo, é necessário dar um git add + nome do arquivo ou 
+git add . para deixar o arquivo pronto para o comando git commit -m "mensagem
+que seguirá com o commit"
