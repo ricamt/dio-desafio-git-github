@@ -1,3 +1,6 @@
 ao modificar um arquivo, é necessário dar um git add + nome do arquivo ou 
 git add . para deixar o arquivo pronto para o comando git commit -m "mensagem
 que seguirá com o commit"
+para o arquivo subir para a nuvem do git é necessário o comando
+git push origin main
+ai sim os repositórios tanto na máquina quanto na nuvem, estarão iguais
